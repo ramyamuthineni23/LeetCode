@@ -18,15 +18,16 @@ class Solution {
         ListNode greater=greaterthan;
         while(temp!=null){
             if(temp.val<x){
-                lessthan.next=new ListNode(temp.val);
+                lessthan.next=temp;
                 lessthan=lessthan.next;
             }
             else{
-                greaterthan.next=new ListNode(temp.val);
+                greaterthan.next=temp;
                 greaterthan=greaterthan.next;
             }
             temp=temp.next;
         }
+        greaterthan.next=null;
         lessthan.next=greater.next;
         
         return less.next;
