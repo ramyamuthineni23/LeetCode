@@ -13,16 +13,10 @@ class Solution {
         for(int i=0;i<s.length();i++){
             ana[s.charAt(i)-'a']++;
             if(i-left==p.length()-1){
-                System.out.println("nvsjh");
-                
-                System.out.println(i);
-                if(Arrays.equals(pArray,ana)){
-                    
-                System.out.println(pArray+" "+ana);
+               if(Arrays.equals(pArray,ana)){
                     list.add(left);
                 }
-                ana[s.charAt(left)-'a']--;
-                left++;
+                ana[s.charAt(left++)-'a']--;
             }
             
         }
