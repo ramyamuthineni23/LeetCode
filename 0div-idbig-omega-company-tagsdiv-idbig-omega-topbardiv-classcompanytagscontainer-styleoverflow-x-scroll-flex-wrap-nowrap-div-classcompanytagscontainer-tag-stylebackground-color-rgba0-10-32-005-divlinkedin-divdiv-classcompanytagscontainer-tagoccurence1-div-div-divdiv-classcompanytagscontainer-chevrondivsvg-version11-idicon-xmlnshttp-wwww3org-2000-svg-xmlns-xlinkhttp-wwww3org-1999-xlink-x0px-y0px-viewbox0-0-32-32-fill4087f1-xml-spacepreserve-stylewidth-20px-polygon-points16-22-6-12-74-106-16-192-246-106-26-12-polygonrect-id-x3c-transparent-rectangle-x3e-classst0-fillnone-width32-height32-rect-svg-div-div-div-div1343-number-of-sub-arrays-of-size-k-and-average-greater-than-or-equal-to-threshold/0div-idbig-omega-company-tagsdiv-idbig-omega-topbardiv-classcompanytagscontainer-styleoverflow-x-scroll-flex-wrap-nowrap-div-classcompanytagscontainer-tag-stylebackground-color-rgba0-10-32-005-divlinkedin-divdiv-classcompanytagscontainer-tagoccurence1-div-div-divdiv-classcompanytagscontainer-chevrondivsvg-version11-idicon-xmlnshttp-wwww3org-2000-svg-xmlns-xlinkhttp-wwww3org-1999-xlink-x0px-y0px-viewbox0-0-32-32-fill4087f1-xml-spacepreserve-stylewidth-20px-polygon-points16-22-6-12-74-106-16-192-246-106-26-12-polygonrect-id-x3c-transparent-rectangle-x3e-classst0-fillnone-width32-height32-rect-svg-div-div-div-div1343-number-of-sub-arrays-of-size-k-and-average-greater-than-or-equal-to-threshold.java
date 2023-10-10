@@ -8,7 +8,8 @@ class Solution {
             
             sum+=nums[r];
             if(r>=k-1){
-                if(sum/k>=threshold){
+                avg=sum/k;
+                if(avg>=threshold){
                     count++;
                 }
                 sum-=nums[l];
