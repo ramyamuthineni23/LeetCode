@@ -4,7 +4,6 @@ class Solution {
         int maxSum=Integer.MIN_VALUE;
         double avg=0;
         for(int r=0;r<nums.length;r++){
-            
             sum+=nums[r];
             if(r>=k-1){
                 maxSum=Math.max(sum,maxSum);;
