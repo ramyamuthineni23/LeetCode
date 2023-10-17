@@ -40,5 +40,6 @@ class Solution {
             res.add(sum/size);
         }
         return res;
+    
     }
 }
