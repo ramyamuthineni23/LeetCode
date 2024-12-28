@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ramyamuthineni23/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ramyamuthineni23/LeetCode/tree/master/0027-remove-element) |
+| [1063-best-sightseeing-pair](https://github.com/ramyamuthineni23/LeetCode/tree/master/1063-best-sightseeing-pair) |
 ## Two Pointers
 |  |
 | ------- |
@@ -60,4 +61,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ramyamuthineni23/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1063-best-sightseeing-pair](https://github.com/ramyamuthineni23/LeetCode/tree/master/1063-best-sightseeing-pair) |
 <!---LeetCode Topics End-->
