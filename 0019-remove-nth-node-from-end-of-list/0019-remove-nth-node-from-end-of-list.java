@@ -27,9 +27,9 @@ class Solution {
 
         if(n==0)
             return head.next;
-            
-        if(temp==null || temp.next==null)
-        return null;
+
+        //if(temp==null || temp.next==null)
+        //return null;
 
         temp.next=temp.next.next;
 
