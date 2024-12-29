@@ -10,30 +10,41 @@
  */
 class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
-        ListNode t1=l1;
-        ListNode t2=l2;
-        ListNode result=new ListNode(-1);
-         ListNode t3=result;
-         int sum=0;
-         int rem=0;
-         while(t1!=null || t2!=null){
-             if(t1!=null){
-                 sum+=t1.val;
-                 t1=t1.next;
-             }
-             if(t2!=null){
-                 sum+=t2.val;
-                 t2=t2.next;
-             }
+        ListNode resultNode=new ListNode(-1);
+        ListNode resultNodeHead=resultNode;
 
-             
-             t3.next=new ListNode(sum%10);
-             sum=sum/10;
-             t3=t3.next;
-         }
-         if(sum>0){
-             t3.next=new ListNode(sum);
-         }
-         return result.next;
+        int carrier=0;
+        int sum=0;
+        while(l1!=null && l2!=null){
+            sum=l1.val+l2.val+carrier;
+
+            resultNode.next=new ListNode(sum%10);
+            carrier=sum/10;
+            resultNode=resultNode.next;
+            l1=l1.next;
+            l2=l2.next;
+        }
+
+        while(l1!=null){
+            sum=l1.val+carrier;
+
+            resultNode.next=new ListNode(sum%10);
+            carrier=sum/10;
+            resultNode=resultNode.next;
+            l1=l1.next;
+        }
+
+        while(l2!=null){
+            sum=l2.val+carrier;
+
+            resultNode.next=new ListNode(sum%10);
+            carrier=sum/10;
+            resultNode=resultNode.next;
+            l2=l2.next;
+        }
+
+        if(carrier>0)
+            resultNode.next=new ListNode(carrier);
+        return resultNodeHead.next;
     }
 }
