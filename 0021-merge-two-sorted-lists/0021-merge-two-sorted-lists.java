@@ -10,44 +10,40 @@
  */
 class Solution {
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
-  
- if(list1==null){
-            return list2;
-        }
-        if(list2==null){
-            return list1;
-        }
-        ListNode h1=list1;
-        ListNode h2=list2;
-        ListNode temp=new ListNode(0,null);
-        ListNode tempHead=temp;
-        while(h1!=null && h2!=null)
-        {
-            if(h1.val<=h2.val){
-                
-                temp.next=h1;
-                h1=h1.next;
+        ListNode resultNode=new ListNode(-1);
+        ListNode resultNodeHead=resultNode;
+
+
+        while(list1!=null && list2!=null){
+            System.out.println("Whileloop1: "+list1.val);
+            if(list1.val<=list2.val){
+                resultNode.next=list1;
+                //resultNode=resultNode.next;
+                //resultNode.next=list2;
+                System.out.println("ifeuqaals: List1: "+list1.val);
+                System.out.println("ResultNOde: "+resultNode.val);
+                list1=list1.next;
+                //list2=list2.next;
             }
+            
             else{
-                temp.next=h2;
-                h2=h2.next;
+                resultNode.next=list2;
+                //resultNode=resultNode.next;
+                System.out.println("ifgreaterthan: List1: "+list1.val);
+                System.out.println("ResultNOde: "+resultNode.val);
+                list2=list2.next;
             }
-            temp=temp.next;
+            resultNode=resultNode.next;
         }
-          while(h1!=null)
-        {   
-                temp.next=h1;
-                h1=h1.next;
-                temp=temp.next;
-        }
-        while(h2!=null)
-        {   
-                temp.next=h2;
-                h2=h2.next;
-                temp=temp.next;
-
-        }
-        return tempHead.next;
-
+           if(list1!=null){
+                resultNode.next=list1;
+                
+            }
+            if(list2!=null){
+                resultNode.next=list2;
+                
+            }
+        
+        return resultNodeHead.next;
     }
 }
