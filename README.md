@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/ramyamuthineni23/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ramyamuthineni23/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ramyamuthineni23/LeetCode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/ramyamuthineni23/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0128-longest-consecutive-sequence](https://github.com/ramyamuthineni23/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/ramyamuthineni23/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1025-minimum-cost-for-tickets](https://github.com/ramyamuthineni23/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ramyamuthineni23/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ramyamuthineni23/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ramyamuthineni23/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/ramyamuthineni23/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/ramyamuthineni23/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ramyamuthineni23/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ramyamuthineni23/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -79,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ramyamuthineni23/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/ramyamuthineni23/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1025-minimum-cost-for-tickets](https://github.com/ramyamuthineni23/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/ramyamuthineni23/LeetCode/tree/master/1063-best-sightseeing-pair) |
@@ -124,9 +127,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ramyamuthineni23/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/ramyamuthineni23/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ramyamuthineni23/LeetCode/tree/master/0015-3sum) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ramyamuthineni23/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
