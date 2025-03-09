@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ramyamuthineni23/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0450-delete-node-in-a-bst](https://github.com/ramyamuthineni23/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0456-132-pattern](https://github.com/ramyamuthineni23/LeetCode/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ramyamuthineni23/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/ramyamuthineni23/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ramyamuthineni23/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ramyamuthineni23/LeetCode/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/ramyamuthineni23/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/ramyamuthineni23/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ramyamuthineni23/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/ramyamuthineni23/LeetCode/tree/master/0042-trapping-rain-water) |
