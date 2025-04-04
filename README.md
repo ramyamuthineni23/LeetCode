@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0783-search-in-a-binary-search-tree](https://github.com/ramyamuthineni23/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ramyamuthineni23/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ramyamuthineni23/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ramyamuthineni23/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/ramyamuthineni23/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Depth-First Search
 |  |
@@ -18,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0871-keys-and-rooms](https://github.com/ramyamuthineni23/LeetCode/tree/master/0871-keys-and-rooms) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ramyamuthineni23/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ramyamuthineni23/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ramyamuthineni23/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/ramyamuthineni23/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Breadth-First Search
 |  |
@@ -25,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/ramyamuthineni23/LeetCode/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/ramyamuthineni23/LeetCode/tree/master/0871-keys-and-rooms) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ramyamuthineni23/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ramyamuthineni23/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/ramyamuthineni23/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Binary Tree
 |  |
@@ -33,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0783-search-in-a-binary-search-tree](https://github.com/ramyamuthineni23/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ramyamuthineni23/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ramyamuthineni23/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ramyamuthineni23/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -134,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/ramyamuthineni23/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ramyamuthineni23/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ramyamuthineni23/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ramyamuthineni23/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ramyamuthineni23/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Linked List
 |  |
