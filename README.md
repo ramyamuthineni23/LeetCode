@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2358-number-of-ways-to-split-array](https://github.com/ramyamuthineni23/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/ramyamuthineni23/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ramyamuthineni23/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/ramyamuthineni23/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/ramyamuthineni23/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ramyamuthineni23/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Two Pointers
