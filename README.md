@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0907-koko-eating-bananas](https://github.com/ramyamuthineni23/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1025-minimum-cost-for-tickets](https://github.com/ramyamuthineni23/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/ramyamuthineni23/LeetCode/tree/master/1063-best-sightseeing-pair) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/ramyamuthineni23/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ramyamuthineni23/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ramyamuthineni23/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ramyamuthineni23/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/ramyamuthineni23/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ramyamuthineni23/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ramyamuthineni23/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/ramyamuthineni23/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ramyamuthineni23/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Linked List
 |  |
@@ -200,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/ramyamuthineni23/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ramyamuthineni23/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Greedy
 |  |
