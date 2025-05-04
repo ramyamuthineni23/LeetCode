@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/ramyamuthineni23/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/ramyamuthineni23/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/ramyamuthineni23/LeetCode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/ramyamuthineni23/LeetCode/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/ramyamuthineni23/LeetCode/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/ramyamuthineni23/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ramyamuthineni23/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -228,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/ramyamuthineni23/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ramyamuthineni23/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/ramyamuthineni23/LeetCode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/ramyamuthineni23/LeetCode/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/ramyamuthineni23/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/ramyamuthineni23/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
