@@ -146,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2292-counting-words-with-a-given-prefix](https://github.com/ramyamuthineni23/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ramyamuthineni23/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ramyamuthineni23/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3637-count-number-of-balanced-permutations](https://github.com/ramyamuthineni23/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## String Matching
 |  |
 | ------- |
@@ -162,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1063-best-sightseeing-pair](https://github.com/ramyamuthineni23/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ramyamuthineni23/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2562-count-ways-to-build-good-strings](https://github.com/ramyamuthineni23/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
+| [3637-count-number-of-balanced-permutations](https://github.com/ramyamuthineni23/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Hash Table
 |  |
 | ------- |
@@ -202,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ramyamuthineni23/LeetCode/tree/master/0002-add-two-numbers) |
+| [3637-count-number-of-balanced-permutations](https://github.com/ramyamuthineni23/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -296,4 +299,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ramyamuthineni23/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/ramyamuthineni23/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3637-count-number-of-balanced-permutations](https://github.com/ramyamuthineni23/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 <!---LeetCode Topics End-->
