@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2691-count-vowel-strings-in-ranges](https://github.com/ramyamuthineni23/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/ramyamuthineni23/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/ramyamuthineni23/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/ramyamuthineni23/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ramyamuthineni23/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ramyamuthineni23/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/ramyamuthineni23/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -241,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0455-assign-cookies](https://github.com/ramyamuthineni23/LeetCode/tree/master/0455-assign-cookies) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ramyamuthineni23/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/ramyamuthineni23/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
