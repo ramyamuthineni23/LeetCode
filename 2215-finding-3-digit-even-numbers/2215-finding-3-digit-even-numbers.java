@@ -1,30 +1,30 @@
-public class Solution {
+class Solution {
+     int ans[] = new int[451];
 
     public int[] findEvenNumbers(int[] digits) {
-        Set<Integer> nums = new HashSet<>();
-        int n = digits.length;
-        // Traverse the indices of three digits
-        for (int i = 0; i < n; ++i) {
-            for (int j = 0; j < n; ++j) {
-                for (int k = 0; k < n; ++k) {
-                    // Determine whether it meets the condition of the target even number
-                    if (i == j || j == k || i == k) {
+        int count[] = new int[10];
+        int size = 0;
+        for (int d : digits)
+            count[d]++;
+
+        for (int i = 1; i < 10; i++) {
+            if (count[i] == 0)
+                continue;
+            --count[i];
+            for (int j = 0; j < 10; j++) {
+                if (count[j] == 0)
+                    continue;
+                --count[j];
+                for (int k = 0; k < 10; k += 2) {
+                    if (count[k] == 0)
                         continue;
-                    }
-                    int num = digits[i] * 100 + digits[j] * 10 + digits[k];
-                    if (num >= 100 && num % 2 == 0) {
-                        nums.add(num);
-                    }
+                    int num = i * 100 + j * 10 + k;
+                    ans[size++] = num;
                 }
+                ++count[j];
             }
+            ++count[i];
         }
-        // Converted to an array sorted in ascending order
-        List<Integer> res = new ArrayList<>(nums);
-        Collections.sort(res);
-        int[] result = new int[res.size()];
-        for (int i = 0; i < res.size(); ++i) {
-            result[i] = res.get(i);
-        }
-        return result;
+        return Arrays.copyOf(ans, size);
     }
 }
