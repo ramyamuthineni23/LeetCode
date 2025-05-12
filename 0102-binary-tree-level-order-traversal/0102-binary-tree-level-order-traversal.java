@@ -14,31 +14,27 @@
  * }
  */
 class Solution {
+    List<List<Integer>> res;
     public List<List<Integer>> levelOrder(TreeNode root) {
         
-        List<List<Integer>> res=new ArrayList<>();
-        int height=height(root);
-        for(int i=0;i<height;i++){
-            List<Integer> subRes=new ArrayList<>();
-            levelBylevel(root, subRes, i);
-            res.add(subRes);
-        }
+        res=new ArrayList<>();
+        
+        //List<Integer> subRes=new ArrayList<>();
+        levelBylevel(root, 0);
+        //res.add(subRes);
+    
         return res;
     }
-    public int height(TreeNode root){
-        if(root==null)
-            return 0;
-        int l=height(root.left)+1;
-        int r=height(root.right)+1;
-        return Math.max(l,r);
-    }
-    public void levelBylevel(TreeNode root, List<Integer> subRes, int i){
+    
+    public void levelBylevel(TreeNode root, int i){
         if(root==null)
             return;
-        if(i==0) subRes.add(root.val);
-        if(i>0){
-        levelBylevel(root.left,subRes,i-1);
-        levelBylevel(root.right,subRes,i-1);
-        }
+        if(res.size()==i)
+        res.add(new ArrayList<>());
+
+        res.get(i).add(root.val);
+        
+        levelBylevel(root.left,i+1);
+        levelBylevel(root.right,i+1);
     }
 }
