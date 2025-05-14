@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0450-delete-node-in-a-bst](https://github.com/ramyamuthineni23/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ramyamuthineni23/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ramyamuthineni23/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/ramyamuthineni23/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ramyamuthineni23/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ramyamuthineni23/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ramyamuthineni23/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ramyamuthineni23/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ramyamuthineni23/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/ramyamuthineni23/LeetCode/tree/master/0547-number-of-provinces) |
+| [0572-subtree-of-another-tree](https://github.com/ramyamuthineni23/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ramyamuthineni23/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0871-keys-and-rooms](https://github.com/ramyamuthineni23/LeetCode/tree/master/0871-keys-and-rooms) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ramyamuthineni23/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -103,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0450-delete-node-in-a-bst](https://github.com/ramyamuthineni23/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ramyamuthineni23/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ramyamuthineni23/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/ramyamuthineni23/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ramyamuthineni23/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ramyamuthineni23/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ramyamuthineni23/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -214,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ramyamuthineni23/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0572-subtree-of-another-tree](https://github.com/ramyamuthineni23/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ramyamuthineni23/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Dynamic Programming
 |  |
@@ -386,4 +390,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/ramyamuthineni23/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/ramyamuthineni23/LeetCode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
