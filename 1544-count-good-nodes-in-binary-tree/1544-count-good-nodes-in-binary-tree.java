@@ -21,15 +21,15 @@ class Solution {
         return count;
     }
     public void goods(TreeNode root, int maxSofar){
-        if(root==null)
-        return;
+    
         if(root.val>=maxSofar){
             count++;
-            maxSofar=root.val;
         }
 
-        goods(root.left,maxSofar);
-        goods(root.right,maxSofar);
+        if(root.left!=null)
+        goods(root.left,Math.max(maxSofar,root.val));
+        if(root.right!=null)
+        goods(root.right,Math.max(maxSofar,root.val));
         return;
     }
 
