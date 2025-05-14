@@ -16,8 +16,7 @@
 class Solution {
     int count=0;
     public int goodNodes(TreeNode root) {
-        int maxSofar=Integer.MIN_VALUE;
-        goods(root,maxSofar);
+        goods(root,Integer.MIN_VALUE);
         return count;
     }
     public void goods(TreeNode root, int maxSofar){
