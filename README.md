@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ramyamuthineni23/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ramyamuthineni23/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ramyamuthineni23/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/ramyamuthineni23/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ramyamuthineni23/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ramyamuthineni23/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ramyamuthineni23/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ramyamuthineni23/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ramyamuthineni23/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ramyamuthineni23/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/ramyamuthineni23/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ramyamuthineni23/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ramyamuthineni23/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ramyamuthineni23/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -157,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0540-single-element-in-a-sorted-array](https://github.com/ramyamuthineni23/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ramyamuthineni23/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ramyamuthineni23/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/ramyamuthineni23/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0907-koko-eating-bananas](https://github.com/ramyamuthineni23/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ramyamuthineni23/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ramyamuthineni23/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -368,6 +371,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ramyamuthineni23/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/ramyamuthineni23/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ramyamuthineni23/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ramyamuthineni23/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/ramyamuthineni23/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -434,6 +438,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/ramyamuthineni23/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ramyamuthineni23/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/ramyamuthineni23/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Iterator
 |  |
 | ------- |
@@ -446,4 +451,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/ramyamuthineni23/LeetCode/tree/master/0572-subtree-of-another-tree) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/ramyamuthineni23/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
