@@ -174,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ramyamuthineni23/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ramyamuthineni23/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ramyamuthineni23/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ramyamuthineni23/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Graph
 |  |
 | ------- |
@@ -231,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2358-number-of-ways-to-split-array](https://github.com/ramyamuthineni23/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/ramyamuthineni23/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ramyamuthineni23/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ramyamuthineni23/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/ramyamuthineni23/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/ramyamuthineni23/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/ramyamuthineni23/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -403,6 +405,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0135-candy](https://github.com/ramyamuthineni23/LeetCode/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/ramyamuthineni23/LeetCode/tree/master/0455-assign-cookies) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ramyamuthineni23/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ramyamuthineni23/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/ramyamuthineni23/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/ramyamuthineni23/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/ramyamuthineni23/LeetCode/tree/master/3647-zero-array-transformation-iii) |
