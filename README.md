@@ -352,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/ramyamuthineni23/LeetCode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/ramyamuthineni23/LeetCode/tree/master/0013-roman-to-integer) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/ramyamuthineni23/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ramyamuthineni23/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/ramyamuthineni23/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3321-type-of-triangle](https://github.com/ramyamuthineni23/LeetCode/tree/master/3321-type-of-triangle) |
@@ -405,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0135-candy](https://github.com/ramyamuthineni23/LeetCode/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/ramyamuthineni23/LeetCode/tree/master/0455-assign-cookies) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ramyamuthineni23/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/ramyamuthineni23/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ramyamuthineni23/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/ramyamuthineni23/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/ramyamuthineni23/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
