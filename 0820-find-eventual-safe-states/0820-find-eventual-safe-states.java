@@ -25,10 +25,13 @@ class Solution {
             }
         }
         boolean[] safe=new boolean[n]; 
+                List<Integer> safeNodes=new ArrayList<>();
+
 
         while(!queue.isEmpty()){
             int node=queue.poll();
-            safe[node]=true;
+            safeNodes.add(node);
+
 
             for(int neighbour: adj.get(node)){
                 indegree[neighbour]--;
@@ -38,13 +41,7 @@ class Solution {
             }
         }
 
-        List<Integer> safeNodes=new ArrayList<>();
-
-        for(int i=0;i<safe.length;i++){
-            if(safe[i]){
-                safeNodes.add(i);
-            }
-        } 
+        Collections.sort(safeNodes);
         return safeNodes;
         
     }
