@@ -175,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0907-koko-eating-bananas](https://github.com/ramyamuthineni23/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ramyamuthineni23/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ramyamuthineni23/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/ramyamuthineni23/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ramyamuthineni23/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ramyamuthineni23/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Graph
@@ -229,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ramyamuthineni23/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ramyamuthineni23/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2048-build-array-from-permutation](https://github.com/ramyamuthineni23/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/ramyamuthineni23/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ramyamuthineni23/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ramyamuthineni23/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ramyamuthineni23/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
