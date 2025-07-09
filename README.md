@@ -227,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1063-best-sightseeing-pair](https://github.com/ramyamuthineni23/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ramyamuthineni23/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/ramyamuthineni23/LeetCode/tree/master/1293-three-consecutive-odds) |
+| [1388-greatest-sum-divisible-by-three](https://github.com/ramyamuthineni23/LeetCode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ramyamuthineni23/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ramyamuthineni23/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2048-build-array-from-permutation](https://github.com/ramyamuthineni23/LeetCode/tree/master/2048-build-array-from-permutation) |
@@ -303,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0868-push-dominoes](https://github.com/ramyamuthineni23/LeetCode/tree/master/0868-push-dominoes) |
 | [1025-minimum-cost-for-tickets](https://github.com/ramyamuthineni23/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/ramyamuthineni23/LeetCode/tree/master/1063-best-sightseeing-pair) |
+| [1388-greatest-sum-divisible-by-three](https://github.com/ramyamuthineni23/LeetCode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ramyamuthineni23/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ramyamuthineni23/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/ramyamuthineni23/LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
@@ -391,6 +393,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/ramyamuthineni23/LeetCode/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ramyamuthineni23/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0455-assign-cookies](https://github.com/ramyamuthineni23/LeetCode/tree/master/0455-assign-cookies) |
+| [1388-greatest-sum-divisible-by-three](https://github.com/ramyamuthineni23/LeetCode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ramyamuthineni23/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ramyamuthineni23/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/ramyamuthineni23/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -415,6 +418,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0135-candy](https://github.com/ramyamuthineni23/LeetCode/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/ramyamuthineni23/LeetCode/tree/master/0455-assign-cookies) |
+| [1388-greatest-sum-divisible-by-three](https://github.com/ramyamuthineni23/LeetCode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ramyamuthineni23/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/ramyamuthineni23/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ramyamuthineni23/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
