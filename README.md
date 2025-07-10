@@ -368,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/ramyamuthineni23/LeetCode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/ramyamuthineni23/LeetCode/tree/master/0013-roman-to-integer) |
+| [0796-reaching-points](https://github.com/ramyamuthineni23/LeetCode/tree/master/0796-reaching-points) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/ramyamuthineni23/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ramyamuthineni23/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/ramyamuthineni23/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
