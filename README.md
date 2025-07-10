@@ -209,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/ramyamuthineni23/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/ramyamuthineni23/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ramyamuthineni23/LeetCode/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/ramyamuthineni23/LeetCode/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/ramyamuthineni23/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/ramyamuthineni23/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0090-subsets-ii](https://github.com/ramyamuthineni23/LeetCode/tree/master/0090-subsets-ii) |
@@ -421,6 +422,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ramyamuthineni23/LeetCode/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/ramyamuthineni23/LeetCode/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ramyamuthineni23/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0455-assign-cookies](https://github.com/ramyamuthineni23/LeetCode/tree/master/0455-assign-cookies) |
 | [1074-high-five](https://github.com/ramyamuthineni23/LeetCode/tree/master/1074-high-five) |
