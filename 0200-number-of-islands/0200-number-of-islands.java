@@ -1,35 +1,26 @@
 class Solution {
     public int numIslands(char[][] grid) {
-        int count=0;
-       for(int i=0;i<grid.length;i++) {
-            for(int j=0; j<grid[i].length;j++) {
-                if(grid[i][j] == '1' ) {
-                    getVisitedArray(i, j, grid);
-                    ++count;
-                }
+        int islands=0;
+        if(grid.length==0) return 0;
+        for(int i=0;i<grid.length;i++)
+        {
+          for(int j=0;j<grid[0].length;j++){
+            if(grid[i][j]=='1'){
+              islands++;
+              dfs(grid,i,j);
             }
+          }
         }
-        return count;
+        return islands;
     }
-
-   private void getVisitedArray(int i, int j, char[][] grid) {
-        if(grid[i][j]=='1') {
-            grid[i][j] = 'V';
-            if(i+1 < grid.length) {
-                getVisitedArray(i + 1, j, grid);
-            }
-            if(j+1 < grid[i].length) {
-                getVisitedArray(i, j+1, grid);
-            }
-
-            if(i-1 >= 0) {
-                getVisitedArray(i - 1, j, grid);
-            }
-
-            if(j-1 >= 0) {
-                getVisitedArray(i , j-1, grid);
-            }
+    public void dfs(char[][] grid, int row, int col){
+      
+      
+        if(row<0 || col <0 || row>=grid.length || col >= grid[0].length || grid[row][col]!='1') return;
+          grid[row][col]='2';
+          dfs(grid,row,col-1);
+          dfs(grid,row-1,col);
+          dfs(grid,row,col+1);
+          dfs(grid,row+1,col);
         }
-    }
-        }
-        
+}
