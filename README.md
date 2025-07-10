@@ -229,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0945-snakes-and-ladders](https://github.com/ramyamuthineni23/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1025-minimum-cost-for-tickets](https://github.com/ramyamuthineni23/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ramyamuthineni23/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/ramyamuthineni23/LeetCode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1063-best-sightseeing-pair](https://github.com/ramyamuthineni23/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1074-high-five](https://github.com/ramyamuthineni23/LeetCode/tree/master/1074-high-five) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ramyamuthineni23/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -345,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/ramyamuthineni23/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ramyamuthineni23/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ramyamuthineni23/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/ramyamuthineni23/LeetCode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1074-high-five](https://github.com/ramyamuthineni23/LeetCode/tree/master/1074-high-five) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ramyamuthineni23/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ramyamuthineni23/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -436,6 +438,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/ramyamuthineni23/LeetCode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ramyamuthineni23/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ramyamuthineni23/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ramyamuthineni23/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
