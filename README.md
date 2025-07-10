@@ -298,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3194-find-words-containing-character](https://github.com/ramyamuthineni23/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ramyamuthineni23/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ramyamuthineni23/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3474-better-compression-of-string](https://github.com/ramyamuthineni23/LeetCode/tree/master/3474-better-compression-of-string) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/ramyamuthineni23/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/ramyamuthineni23/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## String Matching
@@ -348,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2215-finding-3-digit-even-numbers](https://github.com/ramyamuthineni23/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ramyamuthineni23/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ramyamuthineni23/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3474-better-compression-of-string](https://github.com/ramyamuthineni23/LeetCode/tree/master/3474-better-compression-of-string) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/ramyamuthineni23/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Linked List
 |  |
@@ -421,6 +423,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/ramyamuthineni23/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/ramyamuthineni23/LeetCode/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ramyamuthineni23/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3474-better-compression-of-string](https://github.com/ramyamuthineni23/LeetCode/tree/master/3474-better-compression-of-string) |
 | [3647-zero-array-transformation-iii](https://github.com/ramyamuthineni23/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Monotonic Stack
 |  |
@@ -434,6 +437,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ramyamuthineni23/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ramyamuthineni23/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ramyamuthineni23/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3474-better-compression-of-string](https://github.com/ramyamuthineni23/LeetCode/tree/master/3474-better-compression-of-string) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/ramyamuthineni23/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Greedy
 |  |
