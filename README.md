@@ -209,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/ramyamuthineni23/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/ramyamuthineni23/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ramyamuthineni23/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/ramyamuthineni23/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ramyamuthineni23/LeetCode/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/ramyamuthineni23/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/ramyamuthineni23/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -319,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ramyamuthineni23/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ramyamuthineni23/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/ramyamuthineni23/LeetCode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/ramyamuthineni23/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ramyamuthineni23/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ramyamuthineni23/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -457,6 +459,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ramyamuthineni23/LeetCode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/ramyamuthineni23/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ramyamuthineni23/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/ramyamuthineni23/LeetCode/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/ramyamuthineni23/LeetCode/tree/master/0455-assign-cookies) |
