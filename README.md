@@ -232,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/ramyamuthineni23/LeetCode/tree/master/0735-asteroid-collision) |
 | [0907-koko-eating-bananas](https://github.com/ramyamuthineni23/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0945-snakes-and-ladders](https://github.com/ramyamuthineni23/LeetCode/tree/master/0945-snakes-and-ladders) |
+| [0967-minimum-falling-path-sum](https://github.com/ramyamuthineni23/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/ramyamuthineni23/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ramyamuthineni23/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/ramyamuthineni23/LeetCode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
@@ -341,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/ramyamuthineni23/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/ramyamuthineni23/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0868-push-dominoes](https://github.com/ramyamuthineni23/LeetCode/tree/master/0868-push-dominoes) |
+| [0967-minimum-falling-path-sum](https://github.com/ramyamuthineni23/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/ramyamuthineni23/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/ramyamuthineni23/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/ramyamuthineni23/LeetCode/tree/master/1388-greatest-sum-divisible-by-three) |
@@ -569,6 +571,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/ramyamuthineni23/LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/ramyamuthineni23/LeetCode/tree/master/0733-flood-fill) |
 | [0945-snakes-and-ladders](https://github.com/ramyamuthineni23/LeetCode/tree/master/0945-snakes-and-ladders) |
+| [0967-minimum-falling-path-sum](https://github.com/ramyamuthineni23/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ramyamuthineni23/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/ramyamuthineni23/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Shortest Path
