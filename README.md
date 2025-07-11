@@ -255,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ramyamuthineni23/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ramyamuthineni23/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/ramyamuthineni23/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
+| [2504-find-all-good-indices](https://github.com/ramyamuthineni23/LeetCode/tree/master/2504-find-all-good-indices) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/ramyamuthineni23/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ramyamuthineni23/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ramyamuthineni23/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -351,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ramyamuthineni23/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ramyamuthineni23/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/ramyamuthineni23/LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
+| [2504-find-all-good-indices](https://github.com/ramyamuthineni23/LeetCode/tree/master/2504-find-all-good-indices) |
 | [2562-count-ways-to-build-good-strings](https://github.com/ramyamuthineni23/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/ramyamuthineni23/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/ramyamuthineni23/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -433,6 +435,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ramyamuthineni23/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ramyamuthineni23/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2358-number-of-ways-to-split-array](https://github.com/ramyamuthineni23/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
+| [2504-find-all-good-indices](https://github.com/ramyamuthineni23/LeetCode/tree/master/2504-find-all-good-indices) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ramyamuthineni23/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3639-zero-array-transformation-i](https://github.com/ramyamuthineni23/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/ramyamuthineni23/LeetCode/tree/master/3647-zero-array-transformation-iii) |
