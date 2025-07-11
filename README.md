@@ -332,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1283-reformat-date](https://github.com/ramyamuthineni23/LeetCode/tree/master/1283-reformat-date) |
 | [1345-perform-string-shifts](https://github.com/ramyamuthineni23/LeetCode/tree/master/1345-perform-string-shifts) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ramyamuthineni23/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1542-consecutive-characters](https://github.com/ramyamuthineni23/LeetCode/tree/master/1542-consecutive-characters) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ramyamuthineni23/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/ramyamuthineni23/LeetCode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ramyamuthineni23/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
