@@ -269,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1333-sort-the-jumbled-numbers](https://github.com/ramyamuthineni23/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1345-perform-string-shifts](https://github.com/ramyamuthineni23/LeetCode/tree/master/1345-perform-string-shifts) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/ramyamuthineni23/LeetCode/tree/master/1388-greatest-sum-divisible-by-three) |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ramyamuthineni23/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ramyamuthineni23/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ramyamuthineni23/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ramyamuthineni23/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -707,6 +708,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/ramyamuthineni23/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/ramyamuthineni23/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/ramyamuthineni23/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ramyamuthineni23/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Doubly-Linked List
 |  |
 | ------- |
