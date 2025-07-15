@@ -249,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/ramyamuthineni23/LeetCode/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/ramyamuthineni23/LeetCode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/ramyamuthineni23/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/ramyamuthineni23/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0435-non-overlapping-intervals](https://github.com/ramyamuthineni23/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ramyamuthineni23/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/ramyamuthineni23/LeetCode/tree/master/0455-assign-cookies) |
@@ -437,6 +438,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0166-fraction-to-recurring-decimal](https://github.com/ramyamuthineni23/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0268-missing-number](https://github.com/ramyamuthineni23/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ramyamuthineni23/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/ramyamuthineni23/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/ramyamuthineni23/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/ramyamuthineni23/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ramyamuthineni23/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -496,6 +498,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/ramyamuthineni23/LeetCode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/ramyamuthineni23/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/ramyamuthineni23/LeetCode/tree/master/0326-power-of-three) |
+| [0380-insert-delete-getrandom-o1](https://github.com/ramyamuthineni23/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0796-reaching-points](https://github.com/ramyamuthineni23/LeetCode/tree/master/0796-reaching-points) |
 | [1345-perform-string-shifts](https://github.com/ramyamuthineni23/LeetCode/tree/master/1345-perform-string-shifts) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ramyamuthineni23/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -708,6 +711,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/ramyamuthineni23/LeetCode/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/ramyamuthineni23/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ramyamuthineni23/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0380-insert-delete-getrandom-o1](https://github.com/ramyamuthineni23/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ramyamuthineni23/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Iterator
 |  |
@@ -758,4 +762,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ramyamuthineni23/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/ramyamuthineni23/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
