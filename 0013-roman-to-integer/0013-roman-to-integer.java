@@ -1,44 +1,48 @@
 class Solution {
     public int romanToInt(String s) {
-        HashMap<Character,Integer> hash=new HashMap<>();
-        hash.put('I',1);
-        hash.put('V',5);
-         hash.put('X',10);
-         hash.put('L',50);
-         hash.put('C',100);
-         hash.put('D',500);
-         hash.put('M',1000);
-        int temp=0;
-        if(s.length()>1)
-        {
-            for(int i=0;i<s.length()-1;i++){
-                int x=hash.get(s.charAt(i));
-                int y=hash.get(s.charAt(i+1));
-                if(x>=y){
-                    temp+=x;
-                    if(i==s.length()-2)
-                    {
-                        temp+=y;
-                        return temp;
-                    }
-                }
-                else{
-                    temp+=y-x;
-                    i++;
-                    i++;
-                    if(i==s.length()-1){
-                         temp+=hash.get(s.charAt(i));
-                    return temp;
-                    }
-                    if(i==s.length()){
-                        return temp;
-                    }
+        int sum = 0;
+        Map<Character, Integer> map = new HashMap<>();
+        map.put('I', 1);
+        map.put('V', 5);
+        map.put('X', 10);
+        map.put('L', 50);
+        map.put('C', 100);
+        map.put('D', 500);
+        map.put('M', 1000);
+
+        for(int i = s.length() - 1; i >= 0; i--) {
+            if ((s.charAt(i) == 'V' || s.charAt(i) == 'X') 
+            && i - 1 >= 0 && s.charAt(i-1) == 'I') {
+                if (s.charAt(i) == 'V') {
+                    sum += 4;
+                    i--;
+                } else if (s.charAt(i) == 'X') {
+                    sum += 9;
                     i--;
                 }
+            } else if ( (s.charAt(i) == 'L' || s.charAt(i) == 'C') 
+            && i - 1 >= 0 && s.charAt(i-1) == 'X') {
+                if (s.charAt(i) == 'L') {
+                    sum += 40;
+                    i--;
+                } else if(s.charAt(i) == 'C') {
+                    sum += 90;
+                    i--;
+                }
+            } else if ( (s.charAt(i) == 'D' || s.charAt(i) == 'M') 
+            && i - 1 >= 0 && s.charAt(i-1) == 'C') {
+                if (s.charAt(i) == 'D') {
+                    sum += 400;
+                    i--;
+                } else if (s.charAt(i) == 'M') {
+                    sum += 900;
+                    i--;
+                }
+            } else {
+                sum += map.get(s.charAt(i));
             }
         }
-        else
-             return hash.get(s.charAt(0));
-        
-    return temp;}
+            
+        return sum;
+    }
 }
