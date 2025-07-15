@@ -300,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/ramyamuthineni23/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/ramyamuthineni23/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/ramyamuthineni23/LeetCode/tree/master/3647-zero-array-transformation-iii) |
+| [3780-permutations-iii](https://github.com/ramyamuthineni23/LeetCode/tree/master/3780-permutations-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -631,6 +632,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/ramyamuthineni23/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/ramyamuthineni23/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ramyamuthineni23/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3780-permutations-iii](https://github.com/ramyamuthineni23/LeetCode/tree/master/3780-permutations-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
