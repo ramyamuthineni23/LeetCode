@@ -306,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/ramyamuthineni23/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/ramyamuthineni23/LeetCode/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ramyamuthineni23/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/ramyamuthineni23/LeetCode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ramyamuthineni23/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/ramyamuthineni23/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/ramyamuthineni23/LeetCode/tree/master/3639-zero-array-transformation-i) |
@@ -464,6 +465,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ramyamuthineni23/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ramyamuthineni23/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3474-better-compression-of-string](https://github.com/ramyamuthineni23/LeetCode/tree/master/3474-better-compression-of-string) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/ramyamuthineni23/LeetCode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/ramyamuthineni23/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Linked List
 |  |
@@ -596,6 +598,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ramyamuthineni23/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ramyamuthineni23/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3474-better-compression-of-string](https://github.com/ramyamuthineni23/LeetCode/tree/master/3474-better-compression-of-string) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/ramyamuthineni23/LeetCode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/ramyamuthineni23/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Greedy
 |  |
@@ -741,6 +744,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2215-finding-3-digit-even-numbers](https://github.com/ramyamuthineni23/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/ramyamuthineni23/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3270-minimum-moves-to-capture-the-queen](https://github.com/ramyamuthineni23/LeetCode/tree/master/3270-minimum-moves-to-capture-the-queen) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/ramyamuthineni23/LeetCode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Hash Function
 |  |
 | ------- |
