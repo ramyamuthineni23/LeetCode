@@ -14,20 +14,25 @@
  * }
  */
 class Solution {
+    // We use Integer instead of int as it supports a null value.
+    private Integer prev;
+
     public boolean isValidBST(TreeNode root) {
-        if(root==null)
-            return true;
-    
-       return  isValid(root,null,null);
+        prev = null;
+        return inorder(root);
     }
-    
-    public boolean isValid(TreeNode root, Integer left, Integer right){
-        if(root==null)
+
+    private boolean inorder(TreeNode root) {
+        if (root == null) {
             return true;
-        if((left!=null && root.val<=left) || (right!=null && root.val>=right)){
+        }
+        if (!inorder(root.left)) {
             return false;
         }
-        
-        return (isValid(root.left, left, root.val) && isValid(root.right, root.val, right));
-    }   
+        if (prev != null && root.val <= prev) {
+            return false;
+        }
+        prev = root.val;
+        return inorder(root.right);
+    }
 }
