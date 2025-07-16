@@ -419,6 +419,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/ramyamuthineni23/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/ramyamuthineni23/LeetCode/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/ramyamuthineni23/LeetCode/tree/master/0221-maximal-square) |
+| [0264-ugly-number-ii](https://github.com/ramyamuthineni23/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0322-coin-change](https://github.com/ramyamuthineni23/LeetCode/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/ramyamuthineni23/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/ramyamuthineni23/LeetCode/tree/master/0647-palindromic-substrings) |
@@ -457,6 +458,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/ramyamuthineni23/LeetCode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ramyamuthineni23/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ramyamuthineni23/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0264-ugly-number-ii](https://github.com/ramyamuthineni23/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/ramyamuthineni23/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ramyamuthineni23/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ramyamuthineni23/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -521,6 +523,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/ramyamuthineni23/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ramyamuthineni23/LeetCode/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ramyamuthineni23/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0264-ugly-number-ii](https://github.com/ramyamuthineni23/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/ramyamuthineni23/LeetCode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/ramyamuthineni23/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/ramyamuthineni23/LeetCode/tree/master/0326-power-of-three) |
@@ -636,6 +639,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ramyamuthineni23/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/ramyamuthineni23/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0264-ugly-number-ii](https://github.com/ramyamuthineni23/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ramyamuthineni23/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ramyamuthineni23/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1074-high-five](https://github.com/ramyamuthineni23/LeetCode/tree/master/1074-high-five) |
