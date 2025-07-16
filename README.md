@@ -231,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/ramyamuthineni23/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/ramyamuthineni23/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ramyamuthineni23/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/ramyamuthineni23/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ramyamuthineni23/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/ramyamuthineni23/LeetCode/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ramyamuthineni23/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -666,6 +667,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/ramyamuthineni23/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/ramyamuthineni23/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/ramyamuthineni23/LeetCode/tree/master/0052-n-queens-ii) |
+| [0078-subsets](https://github.com/ramyamuthineni23/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ramyamuthineni23/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/ramyamuthineni23/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/ramyamuthineni23/LeetCode/tree/master/0131-palindrome-partitioning) |
@@ -674,6 +676,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ramyamuthineni23/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ramyamuthineni23/LeetCode/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/ramyamuthineni23/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/ramyamuthineni23/LeetCode/tree/master/0268-missing-number) |
