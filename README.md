@@ -243,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/ramyamuthineni23/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/ramyamuthineni23/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/ramyamuthineni23/LeetCode/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/ramyamuthineni23/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/ramyamuthineni23/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/ramyamuthineni23/LeetCode/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/ramyamuthineni23/LeetCode/tree/master/0198-house-robber) |
@@ -357,6 +358,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/ramyamuthineni23/LeetCode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/ramyamuthineni23/LeetCode/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/ramyamuthineni23/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/ramyamuthineni23/LeetCode/tree/master/0139-word-break) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ramyamuthineni23/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0273-integer-to-english-words](https://github.com/ramyamuthineni23/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ramyamuthineni23/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -413,6 +415,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ramyamuthineni23/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ramyamuthineni23/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/ramyamuthineni23/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/ramyamuthineni23/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/ramyamuthineni23/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/ramyamuthineni23/LeetCode/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/ramyamuthineni23/LeetCode/tree/master/0221-maximal-square) |
@@ -448,6 +451,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ramyamuthineni23/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/ramyamuthineni23/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/ramyamuthineni23/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/ramyamuthineni23/LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/ramyamuthineni23/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ramyamuthineni23/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/ramyamuthineni23/LeetCode/tree/master/0146-lru-cache) |
@@ -766,6 +770,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/ramyamuthineni23/LeetCode/tree/master/0139-word-break) |
 | [0386-lexicographical-numbers](https://github.com/ramyamuthineni23/LeetCode/tree/master/0386-lexicographical-numbers) |
 ## Topological Sort
 |  |
@@ -786,6 +791,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ramyamuthineni23/LeetCode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/ramyamuthineni23/LeetCode/tree/master/0139-word-break) |
 ## Concurrency
 |  |
 | ------- |
