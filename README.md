@@ -251,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/ramyamuthineni23/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/ramyamuthineni23/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/ramyamuthineni23/LeetCode/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/ramyamuthineni23/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ramyamuthineni23/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/ramyamuthineni23/LeetCode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/ramyamuthineni23/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -339,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/ramyamuthineni23/LeetCode/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/ramyamuthineni23/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ramyamuthineni23/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/ramyamuthineni23/LeetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/ramyamuthineni23/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/ramyamuthineni23/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/ramyamuthineni23/LeetCode/tree/master/0443-string-compression) |
@@ -536,6 +538,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/ramyamuthineni23/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ramyamuthineni23/LeetCode/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ramyamuthineni23/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0189-rotate-array](https://github.com/ramyamuthineni23/LeetCode/tree/master/0189-rotate-array) |
 | [0264-ugly-number-ii](https://github.com/ramyamuthineni23/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/ramyamuthineni23/LeetCode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/ramyamuthineni23/LeetCode/tree/master/0273-integer-to-english-words) |
