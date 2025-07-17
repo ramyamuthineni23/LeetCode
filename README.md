@@ -352,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/ramyamuthineni23/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/ramyamuthineni23/LeetCode/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/ramyamuthineni23/LeetCode/tree/master/0455-assign-cookies) |
+| [0556-next-greater-element-iii](https://github.com/ramyamuthineni23/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0647-palindromic-substrings](https://github.com/ramyamuthineni23/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ramyamuthineni23/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0868-push-dominoes](https://github.com/ramyamuthineni23/LeetCode/tree/master/0868-push-dominoes) |
@@ -383,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/ramyamuthineni23/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/ramyamuthineni23/LeetCode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/ramyamuthineni23/LeetCode/tree/master/0443-string-compression) |
+| [0556-next-greater-element-iii](https://github.com/ramyamuthineni23/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0647-palindromic-substrings](https://github.com/ramyamuthineni23/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/ramyamuthineni23/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/ramyamuthineni23/LeetCode/tree/master/0678-valid-parenthesis-string) |
@@ -560,6 +562,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/ramyamuthineni23/LeetCode/tree/master/0326-power-of-three) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ramyamuthineni23/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0445-add-two-numbers-ii](https://github.com/ramyamuthineni23/LeetCode/tree/master/0445-add-two-numbers-ii) |
+| [0556-next-greater-element-iii](https://github.com/ramyamuthineni23/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0796-reaching-points](https://github.com/ramyamuthineni23/LeetCode/tree/master/0796-reaching-points) |
 | [1345-perform-string-shifts](https://github.com/ramyamuthineni23/LeetCode/tree/master/1345-perform-string-shifts) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ramyamuthineni23/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
