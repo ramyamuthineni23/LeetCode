@@ -325,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ramyamuthineni23/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2048-build-array-from-permutation](https://github.com/ramyamuthineni23/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/ramyamuthineni23/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2169-simple-bank-system](https://github.com/ramyamuthineni23/LeetCode/tree/master/2169-simple-bank-system) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ramyamuthineni23/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/ramyamuthineni23/LeetCode/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ramyamuthineni23/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -525,6 +526,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ramyamuthineni23/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ramyamuthineni23/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ramyamuthineni23/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2169-simple-bank-system](https://github.com/ramyamuthineni23/LeetCode/tree/master/2169-simple-bank-system) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ramyamuthineni23/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ramyamuthineni23/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2348-count-number-of-texts](https://github.com/ramyamuthineni23/LeetCode/tree/master/2348-count-number-of-texts) |
@@ -744,6 +746,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1184-car-pooling](https://github.com/ramyamuthineni23/LeetCode/tree/master/1184-car-pooling) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ramyamuthineni23/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2048-build-array-from-permutation](https://github.com/ramyamuthineni23/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2169-simple-bank-system](https://github.com/ramyamuthineni23/LeetCode/tree/master/2169-simple-bank-system) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/ramyamuthineni23/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ramyamuthineni23/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ramyamuthineni23/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -847,6 +850,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0348-design-tic-tac-toe](https://github.com/ramyamuthineni23/LeetCode/tree/master/0348-design-tic-tac-toe) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ramyamuthineni23/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ramyamuthineni23/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [2169-simple-bank-system](https://github.com/ramyamuthineni23/LeetCode/tree/master/2169-simple-bank-system) |
 ## Iterator
 |  |
 | ------- |
