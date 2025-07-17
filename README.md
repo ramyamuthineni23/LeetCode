@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/ramyamuthineni23/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ramyamuthineni23/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ramyamuthineni23/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/ramyamuthineni23/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ramyamuthineni23/LeetCode/tree/master/0733-flood-fill) |
 | [0820-find-eventual-safe-states](https://github.com/ramyamuthineni23/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/ramyamuthineni23/LeetCode/tree/master/0871-keys-and-rooms) |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/ramyamuthineni23/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ramyamuthineni23/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ramyamuthineni23/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/ramyamuthineni23/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ramyamuthineni23/LeetCode/tree/master/0733-flood-fill) |
 | [0820-find-eventual-safe-states](https://github.com/ramyamuthineni23/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/ramyamuthineni23/LeetCode/tree/master/0871-keys-and-rooms) |
@@ -207,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/ramyamuthineni23/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/ramyamuthineni23/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ramyamuthineni23/LeetCode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/ramyamuthineni23/LeetCode/tree/master/0695-max-area-of-island) |
 ## Array
 |  |
 | ------- |
@@ -268,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0540-single-element-in-a-sorted-array](https://github.com/ramyamuthineni23/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ramyamuthineni23/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/ramyamuthineni23/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0695-max-area-of-island](https://github.com/ramyamuthineni23/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ramyamuthineni23/LeetCode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/ramyamuthineni23/LeetCode/tree/master/0735-asteroid-collision) |
 | [0875-longest-mountain-in-array](https://github.com/ramyamuthineni23/LeetCode/tree/master/0875-longest-mountain-in-array) |
@@ -732,6 +736,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/ramyamuthineni23/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/ramyamuthineni23/LeetCode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/ramyamuthineni23/LeetCode/tree/master/0221-maximal-square) |
+| [0695-max-area-of-island](https://github.com/ramyamuthineni23/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ramyamuthineni23/LeetCode/tree/master/0733-flood-fill) |
 | [0945-snakes-and-ladders](https://github.com/ramyamuthineni23/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/ramyamuthineni23/LeetCode/tree/master/0967-minimum-falling-path-sum) |
