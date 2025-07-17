@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ramyamuthineni23/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ramyamuthineni23/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ramyamuthineni23/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0582-kill-process](https://github.com/ramyamuthineni23/LeetCode/tree/master/0582-kill-process) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ramyamuthineni23/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ramyamuthineni23/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ramyamuthineni23/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/ramyamuthineni23/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/ramyamuthineni23/LeetCode/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/ramyamuthineni23/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0582-kill-process](https://github.com/ramyamuthineni23/LeetCode/tree/master/0582-kill-process) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ramyamuthineni23/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ramyamuthineni23/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ramyamuthineni23/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -107,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/ramyamuthineni23/LeetCode/tree/master/0322-coin-change) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ramyamuthineni23/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/ramyamuthineni23/LeetCode/tree/master/0547-number-of-provinces) |
+| [0582-kill-process](https://github.com/ramyamuthineni23/LeetCode/tree/master/0582-kill-process) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ramyamuthineni23/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ramyamuthineni23/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ramyamuthineni23/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -281,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/ramyamuthineni23/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ramyamuthineni23/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ramyamuthineni23/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0582-kill-process](https://github.com/ramyamuthineni23/LeetCode/tree/master/0582-kill-process) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/ramyamuthineni23/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0692-top-k-frequent-words](https://github.com/ramyamuthineni23/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/ramyamuthineni23/LeetCode/tree/master/0695-max-area-of-island) |
@@ -499,6 +503,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0380-insert-delete-getrandom-o1](https://github.com/ramyamuthineni23/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/ramyamuthineni23/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/ramyamuthineni23/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0582-kill-process](https://github.com/ramyamuthineni23/LeetCode/tree/master/0582-kill-process) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ramyamuthineni23/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/ramyamuthineni23/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/ramyamuthineni23/LeetCode/tree/master/0778-reorganize-string) |
