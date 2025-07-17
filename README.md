@@ -559,6 +559,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/ramyamuthineni23/LeetCode/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/ramyamuthineni23/LeetCode/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/ramyamuthineni23/LeetCode/tree/master/0486-predict-the-winner) |
+| [0795-k-th-symbol-in-grammar](https://github.com/ramyamuthineni23/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ramyamuthineni23/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/ramyamuthineni23/LeetCode/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
 ## Math
@@ -583,6 +584,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0445-add-two-numbers-ii](https://github.com/ramyamuthineni23/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0486-predict-the-winner](https://github.com/ramyamuthineni23/LeetCode/tree/master/0486-predict-the-winner) |
 | [0556-next-greater-element-iii](https://github.com/ramyamuthineni23/LeetCode/tree/master/0556-next-greater-element-iii) |
+| [0795-k-th-symbol-in-grammar](https://github.com/ramyamuthineni23/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0796-reaching-points](https://github.com/ramyamuthineni23/LeetCode/tree/master/0796-reaching-points) |
 | [1345-perform-string-shifts](https://github.com/ramyamuthineni23/LeetCode/tree/master/1345-perform-string-shifts) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ramyamuthineni23/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -765,6 +767,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/ramyamuthineni23/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/ramyamuthineni23/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ramyamuthineni23/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0795-k-th-symbol-in-grammar](https://github.com/ramyamuthineni23/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/ramyamuthineni23/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Divide and Conquer
 |  |
