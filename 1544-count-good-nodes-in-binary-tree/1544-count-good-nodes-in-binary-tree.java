@@ -15,21 +15,19 @@
  */
 class Solution {
     int count=0;
+    int softMax=Integer.MIN_VALUE;
     public int goodNodes(TreeNode root) {
-        goods(root,Integer.MIN_VALUE);
+        countingGoodNodes(root,softMax);
         return count;
     }
-    public void goods(TreeNode root, int maxSofar){
-    
-        if(root.val>=maxSofar){
+    public void countingGoodNodes(TreeNode root, int softMax){
+        if(root==null)
+            return ;
+        if(root.val>=softMax){
             count++;
+            softMax=root.val;
         }
-
-        if(root.left!=null)
-        goods(root.left,Math.max(maxSofar,root.val));
-        if(root.right!=null)
-        goods(root.right,Math.max(maxSofar,root.val));
-        return;
+        countingGoodNodes(root.left, softMax);
+        countingGoodNodes(root.right, softMax);
     }
-
 }
