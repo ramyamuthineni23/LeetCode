@@ -373,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0443-string-compression](https://github.com/ramyamuthineni23/LeetCode/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/ramyamuthineni23/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/ramyamuthineni23/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [0778-reorganize-string](https://github.com/ramyamuthineni23/LeetCode/tree/master/0778-reorganize-string) |
 | [0868-push-dominoes](https://github.com/ramyamuthineni23/LeetCode/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/ramyamuthineni23/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ramyamuthineni23/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -472,6 +473,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/ramyamuthineni23/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/ramyamuthineni23/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ramyamuthineni23/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0778-reorganize-string](https://github.com/ramyamuthineni23/LeetCode/tree/master/0778-reorganize-string) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/ramyamuthineni23/LeetCode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1074-high-five](https://github.com/ramyamuthineni23/LeetCode/tree/master/1074-high-five) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ramyamuthineni23/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -590,6 +592,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/ramyamuthineni23/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ramyamuthineni23/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/ramyamuthineni23/LeetCode/tree/master/0455-assign-cookies) |
+| [0778-reorganize-string](https://github.com/ramyamuthineni23/LeetCode/tree/master/0778-reorganize-string) |
 | [1074-high-five](https://github.com/ramyamuthineni23/LeetCode/tree/master/1074-high-five) |
 | [1184-car-pooling](https://github.com/ramyamuthineni23/LeetCode/tree/master/1184-car-pooling) |
 | [1333-sort-the-jumbled-numbers](https://github.com/ramyamuthineni23/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
@@ -613,6 +616,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ramyamuthineni23/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/ramyamuthineni23/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0778-reorganize-string](https://github.com/ramyamuthineni23/LeetCode/tree/master/0778-reorganize-string) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/ramyamuthineni23/LeetCode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ramyamuthineni23/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ramyamuthineni23/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -631,6 +635,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/ramyamuthineni23/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ramyamuthineni23/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/ramyamuthineni23/LeetCode/tree/master/0455-assign-cookies) |
+| [0778-reorganize-string](https://github.com/ramyamuthineni23/LeetCode/tree/master/0778-reorganize-string) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/ramyamuthineni23/LeetCode/tree/master/1388-greatest-sum-divisible-by-three) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ramyamuthineni23/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/ramyamuthineni23/LeetCode/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
@@ -648,6 +653,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/ramyamuthineni23/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/ramyamuthineni23/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ramyamuthineni23/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0778-reorganize-string](https://github.com/ramyamuthineni23/LeetCode/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ramyamuthineni23/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1074-high-five](https://github.com/ramyamuthineni23/LeetCode/tree/master/1074-high-five) |
 | [1184-car-pooling](https://github.com/ramyamuthineni23/LeetCode/tree/master/1184-car-pooling) |
