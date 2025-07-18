@@ -199,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0783-search-in-a-binary-search-tree](https://github.com/ramyamuthineni23/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ramyamuthineni23/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0907-koko-eating-bananas](https://github.com/ramyamuthineni23/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [1046-max-consecutive-ones-iii](https://github.com/ramyamuthineni23/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ramyamuthineni23/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ramyamuthineni23/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ramyamuthineni23/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -309,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0967-minimum-falling-path-sum](https://github.com/ramyamuthineni23/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/ramyamuthineni23/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/ramyamuthineni23/LeetCode/tree/master/1036-rotting-oranges) |
+| [1046-max-consecutive-ones-iii](https://github.com/ramyamuthineni23/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ramyamuthineni23/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/ramyamuthineni23/LeetCode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ramyamuthineni23/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -629,6 +631,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/ramyamuthineni23/LeetCode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0560-subarray-sum-equals-k](https://github.com/ramyamuthineni23/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/ramyamuthineni23/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/ramyamuthineni23/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1184-car-pooling](https://github.com/ramyamuthineni23/LeetCode/tree/master/1184-car-pooling) |
 | [1206-corporate-flight-bookings](https://github.com/ramyamuthineni23/LeetCode/tree/master/1206-corporate-flight-bookings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ramyamuthineni23/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -913,6 +916,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/ramyamuthineni23/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/ramyamuthineni23/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0713-subarray-product-less-than-k](https://github.com/ramyamuthineni23/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/ramyamuthineni23/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ramyamuthineni23/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Doubly-Linked List
 |  |
