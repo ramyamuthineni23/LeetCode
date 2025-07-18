@@ -302,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/ramyamuthineni23/LeetCode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/ramyamuthineni23/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ramyamuthineni23/LeetCode/tree/master/0739-daily-temperatures) |
+| [0859-design-circular-deque](https://github.com/ramyamuthineni23/LeetCode/tree/master/0859-design-circular-deque) |
 | [0875-longest-mountain-in-array](https://github.com/ramyamuthineni23/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0907-koko-eating-bananas](https://github.com/ramyamuthineni23/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0945-snakes-and-ladders](https://github.com/ramyamuthineni23/LeetCode/tree/master/0945-snakes-and-ladders) |
@@ -565,6 +566,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/ramyamuthineni23/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ramyamuthineni23/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/ramyamuthineni23/LeetCode/tree/master/0445-add-two-numbers-ii) |
+| [0859-design-circular-deque](https://github.com/ramyamuthineni23/LeetCode/tree/master/0859-design-circular-deque) |
 | [0908-middle-of-the-linked-list](https://github.com/ramyamuthineni23/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -819,6 +821,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ramyamuthineni23/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/ramyamuthineni23/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0859-design-circular-deque](https://github.com/ramyamuthineni23/LeetCode/tree/master/0859-design-circular-deque) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ramyamuthineni23/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ramyamuthineni23/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Monotonic Queue
@@ -869,6 +872,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0348-design-tic-tac-toe](https://github.com/ramyamuthineni23/LeetCode/tree/master/0348-design-tic-tac-toe) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ramyamuthineni23/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ramyamuthineni23/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0859-design-circular-deque](https://github.com/ramyamuthineni23/LeetCode/tree/master/0859-design-circular-deque) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/ramyamuthineni23/LeetCode/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [2169-simple-bank-system](https://github.com/ramyamuthineni23/LeetCode/tree/master/2169-simple-bank-system) |
 ## Iterator
