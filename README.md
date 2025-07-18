@@ -199,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0783-search-in-a-binary-search-tree](https://github.com/ramyamuthineni23/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ramyamuthineni23/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0907-koko-eating-bananas](https://github.com/ramyamuthineni23/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [0923-super-egg-drop](https://github.com/ramyamuthineni23/LeetCode/tree/master/0923-super-egg-drop) |
 | [1046-max-consecutive-ones-iii](https://github.com/ramyamuthineni23/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ramyamuthineni23/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ramyamuthineni23/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -490,6 +491,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0803-cheapest-flights-within-k-stops](https://github.com/ramyamuthineni23/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0868-push-dominoes](https://github.com/ramyamuthineni23/LeetCode/tree/master/0868-push-dominoes) |
 | [0875-longest-mountain-in-array](https://github.com/ramyamuthineni23/LeetCode/tree/master/0875-longest-mountain-in-array) |
+| [0923-super-egg-drop](https://github.com/ramyamuthineni23/LeetCode/tree/master/0923-super-egg-drop) |
 | [0967-minimum-falling-path-sum](https://github.com/ramyamuthineni23/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/ramyamuthineni23/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/ramyamuthineni23/LeetCode/tree/master/1063-best-sightseeing-pair) |
@@ -614,6 +616,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0556-next-greater-element-iii](https://github.com/ramyamuthineni23/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0795-k-th-symbol-in-grammar](https://github.com/ramyamuthineni23/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0796-reaching-points](https://github.com/ramyamuthineni23/LeetCode/tree/master/0796-reaching-points) |
+| [0923-super-egg-drop](https://github.com/ramyamuthineni23/LeetCode/tree/master/0923-super-egg-drop) |
 | [1345-perform-string-shifts](https://github.com/ramyamuthineni23/LeetCode/tree/master/1345-perform-string-shifts) |
 | [1585-the-kth-factor-of-n](https://github.com/ramyamuthineni23/LeetCode/tree/master/1585-the-kth-factor-of-n) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ramyamuthineni23/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
