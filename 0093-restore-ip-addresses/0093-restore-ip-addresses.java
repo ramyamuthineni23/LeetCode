@@ -1,33 +1,58 @@
 class Solution {
-    public List<String> restoreIpAddresses(String s) {
-        List<String> result = new ArrayList<>();
-        backtrack(s, 0, new ArrayList<>(), result);
-        return result;
+    private boolean isValid(String s, int start, int length) {
+        return (
+            length == 1 ||
+            (s.charAt(start) != '0' &&
+                (length < 3 ||
+                    s.substring(start, start + length).compareTo("255") <= 0))
+        );
     }
 
-    private void backtrack(String s, int start, List<String> parts, List<String> result) {
-        // If we already have 4 parts and we're at the end of the string
-        if (parts.size() == 4) {
-            if (start == s.length()) {
-                result.add(String.join(".", parts));
-            }
-            return;
-        }
-
-        // Try every possible split: 1 to 3 digits
-        for (int len = 1; len <= 3; len++) {
-            if (start + len > s.length()) break;
-
-            String part = s.substring(start, start + len);
-
-            // Validate part: no leading zero unless single digit, and <= 255
-            if ((part.startsWith("0") && part.length() > 1) || Integer.parseInt(part) > 255) {
+    public List<String> restoreIpAddresses(String s) {
+        List<String> ans = new ArrayList<>();
+        for (
+            int len1 = Math.max(1, s.length() - 9);
+            len1 <= 3 && len1 <= s.length() - 3;
+            ++len1
+        ) {
+            if (!isValid(s, 0, len1)) {
                 continue;
             }
 
-            parts.add(part); // Choose
-            backtrack(s, start + len, parts, result); // Explore
-            parts.remove(parts.size() - 1); // Un-choose
+            for (
+                int len2 = Math.max(1, s.length() - len1 - 6);
+                len2 <= 3 && len2 <= s.length() - len1 - 2;
+                ++len2
+            ) {
+                if (!isValid(s, len1, len2)) {
+                    continue;
+                }
+                for (
+                    int len3 = Math.max(1, s.length() - len1 - len2 - 3);
+                    len3 <= 3 && len3 <= s.length() - len1 - len2 - 1;
+                    ++len3
+                ) {
+                    if (
+                        isValid(s, len1 + len2, len3) &&
+                        isValid(
+                            s,
+                            len1 + len2 + len3,
+                            s.length() - len1 - len2 - len3
+                        )
+                    ) {
+                        ans.add(
+                            String.join(
+                                ".",
+                                s.substring(0, len1),
+                                s.substring(len1, len1 + len2),
+                                s.substring(len1 + len2, len1 + len2 + len3),
+                                s.substring(len1 + len2 + len3)
+                            )
+                        );
+                    }
+                }
+            }
         }
+        return ans;
     }
 }
