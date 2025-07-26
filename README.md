@@ -419,6 +419,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ramyamuthineni23/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0079-word-search](https://github.com/ramyamuthineni23/LeetCode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/ramyamuthineni23/LeetCode/tree/master/0091-decode-ways) |
+| [0093-restore-ip-addresses](https://github.com/ramyamuthineni23/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/ramyamuthineni23/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/ramyamuthineni23/LeetCode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/ramyamuthineni23/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -818,6 +819,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/ramyamuthineni23/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ramyamuthineni23/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/ramyamuthineni23/LeetCode/tree/master/0090-subsets-ii) |
+| [0093-restore-ip-addresses](https://github.com/ramyamuthineni23/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/ramyamuthineni23/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0465-optimal-account-balancing](https://github.com/ramyamuthineni23/LeetCode/tree/master/0465-optimal-account-balancing) |
 | [1331-path-with-maximum-gold](https://github.com/ramyamuthineni23/LeetCode/tree/master/1331-path-with-maximum-gold) |
