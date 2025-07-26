@@ -296,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ramyamuthineni23/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/ramyamuthineni23/LeetCode/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/ramyamuthineni23/LeetCode/tree/master/0456-132-pattern) |
+| [0465-optimal-account-balancing](https://github.com/ramyamuthineni23/LeetCode/tree/master/0465-optimal-account-balancing) |
 | [0485-max-consecutive-ones](https://github.com/ramyamuthineni23/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/ramyamuthineni23/LeetCode/tree/master/0486-predict-the-winner) |
 | [0503-next-greater-element-ii](https://github.com/ramyamuthineni23/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -495,6 +496,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/ramyamuthineni23/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ramyamuthineni23/LeetCode/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/ramyamuthineni23/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0465-optimal-account-balancing](https://github.com/ramyamuthineni23/LeetCode/tree/master/0465-optimal-account-balancing) |
 | [0486-predict-the-winner](https://github.com/ramyamuthineni23/LeetCode/tree/master/0486-predict-the-winner) |
 | [0647-palindromic-substrings](https://github.com/ramyamuthineni23/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/ramyamuthineni23/LeetCode/tree/master/0678-valid-parenthesis-string) |
@@ -817,6 +819,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/ramyamuthineni23/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/ramyamuthineni23/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/ramyamuthineni23/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0465-optimal-account-balancing](https://github.com/ramyamuthineni23/LeetCode/tree/master/0465-optimal-account-balancing) |
 | [1331-path-with-maximum-gold](https://github.com/ramyamuthineni23/LeetCode/tree/master/1331-path-with-maximum-gold) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ramyamuthineni23/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3780-permutations-iii](https://github.com/ramyamuthineni23/LeetCode/tree/master/3780-permutations-iii) |
@@ -828,6 +831,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/ramyamuthineni23/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/ramyamuthineni23/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ramyamuthineni23/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0465-optimal-account-balancing](https://github.com/ramyamuthineni23/LeetCode/tree/master/0465-optimal-account-balancing) |
 | [0795-k-th-symbol-in-grammar](https://github.com/ramyamuthineni23/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [2529-range-product-queries-of-powers](https://github.com/ramyamuthineni23/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/ramyamuthineni23/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -994,4 +998,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/ramyamuthineni23/LeetCode/tree/master/1511-count-number-of-teams) |
+## Bitmask
+|  |
+| ------- |
+| [0465-optimal-account-balancing](https://github.com/ramyamuthineni23/LeetCode/tree/master/0465-optimal-account-balancing) |
 <!---LeetCode Topics End-->
