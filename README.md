@@ -312,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/ramyamuthineni23/LeetCode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/ramyamuthineni23/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ramyamuthineni23/LeetCode/tree/master/0739-daily-temperatures) |
+| [0817-design-hashmap](https://github.com/ramyamuthineni23/LeetCode/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/ramyamuthineni23/LeetCode/tree/master/0859-design-circular-deque) |
 | [0875-longest-mountain-in-array](https://github.com/ramyamuthineni23/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0907-koko-eating-bananas](https://github.com/ramyamuthineni23/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -556,6 +557,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ramyamuthineni23/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/ramyamuthineni23/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/ramyamuthineni23/LeetCode/tree/master/0778-reorganize-string) |
+| [0817-design-hashmap](https://github.com/ramyamuthineni23/LeetCode/tree/master/0817-design-hashmap) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/ramyamuthineni23/LeetCode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1074-high-five](https://github.com/ramyamuthineni23/LeetCode/tree/master/1074-high-five) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ramyamuthineni23/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -592,6 +594,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/ramyamuthineni23/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ramyamuthineni23/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/ramyamuthineni23/LeetCode/tree/master/0445-add-two-numbers-ii) |
+| [0817-design-hashmap](https://github.com/ramyamuthineni23/LeetCode/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/ramyamuthineni23/LeetCode/tree/master/0859-design-circular-deque) |
 | [0908-middle-of-the-linked-list](https://github.com/ramyamuthineni23/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
@@ -909,6 +912,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0348-design-tic-tac-toe](https://github.com/ramyamuthineni23/LeetCode/tree/master/0348-design-tic-tac-toe) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ramyamuthineni23/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ramyamuthineni23/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0817-design-hashmap](https://github.com/ramyamuthineni23/LeetCode/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/ramyamuthineni23/LeetCode/tree/master/0859-design-circular-deque) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/ramyamuthineni23/LeetCode/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [2169-simple-bank-system](https://github.com/ramyamuthineni23/LeetCode/tree/master/2169-simple-bank-system) |
@@ -929,6 +933,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/ramyamuthineni23/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0817-design-hashmap](https://github.com/ramyamuthineni23/LeetCode/tree/master/0817-design-hashmap) |
 ## Data Stream
 |  |
 | ------- |
