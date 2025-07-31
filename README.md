@@ -202,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0713-subarray-product-less-than-k](https://github.com/ramyamuthineni23/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ramyamuthineni23/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ramyamuthineni23/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ramyamuthineni23/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/ramyamuthineni23/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0923-super-egg-drop](https://github.com/ramyamuthineni23/LeetCode/tree/master/0923-super-egg-drop) |
 | [1046-max-consecutive-ones-iii](https://github.com/ramyamuthineni23/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -315,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0817-design-hashmap](https://github.com/ramyamuthineni23/LeetCode/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/ramyamuthineni23/LeetCode/tree/master/0859-design-circular-deque) |
 | [0875-longest-mountain-in-array](https://github.com/ramyamuthineni23/LeetCode/tree/master/0875-longest-mountain-in-array) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ramyamuthineni23/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/ramyamuthineni23/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0945-snakes-and-ladders](https://github.com/ramyamuthineni23/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/ramyamuthineni23/LeetCode/tree/master/0967-minimum-falling-path-sum) |
@@ -659,6 +661,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/ramyamuthineni23/LeetCode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0560-subarray-sum-equals-k](https://github.com/ramyamuthineni23/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/ramyamuthineni23/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ramyamuthineni23/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/ramyamuthineni23/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1184-car-pooling](https://github.com/ramyamuthineni23/LeetCode/tree/master/1184-car-pooling) |
 | [1206-corporate-flight-bookings](https://github.com/ramyamuthineni23/LeetCode/tree/master/1206-corporate-flight-bookings) |
@@ -782,6 +785,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0778-reorganize-string](https://github.com/ramyamuthineni23/LeetCode/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ramyamuthineni23/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ramyamuthineni23/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ramyamuthineni23/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1074-high-five](https://github.com/ramyamuthineni23/LeetCode/tree/master/1074-high-five) |
 | [1184-car-pooling](https://github.com/ramyamuthineni23/LeetCode/tree/master/1184-car-pooling) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ramyamuthineni23/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -862,12 +866,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/ramyamuthineni23/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/ramyamuthineni23/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0859-design-circular-deque](https://github.com/ramyamuthineni23/LeetCode/tree/master/0859-design-circular-deque) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ramyamuthineni23/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ramyamuthineni23/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ramyamuthineni23/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ramyamuthineni23/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ramyamuthineni23/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ramyamuthineni23/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Matrix
 |  |
@@ -956,6 +962,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/ramyamuthineni23/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/ramyamuthineni23/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/ramyamuthineni23/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ramyamuthineni23/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/ramyamuthineni23/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ramyamuthineni23/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Doubly-Linked List
