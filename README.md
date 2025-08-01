@@ -347,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ramyamuthineni23/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ramyamuthineni23/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2048-build-array-from-permutation](https://github.com/ramyamuthineni23/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ramyamuthineni23/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2117-find-original-array-from-doubled-array](https://github.com/ramyamuthineni23/LeetCode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/ramyamuthineni23/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2169-simple-bank-system](https://github.com/ramyamuthineni23/LeetCode/tree/master/2169-simple-bank-system) |
@@ -568,6 +569,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ramyamuthineni23/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/ramyamuthineni23/LeetCode/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ramyamuthineni23/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ramyamuthineni23/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2117-find-original-array-from-doubled-array](https://github.com/ramyamuthineni23/LeetCode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2169-simple-bank-system](https://github.com/ramyamuthineni23/LeetCode/tree/master/2169-simple-bank-system) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ramyamuthineni23/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -744,6 +746,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0778-reorganize-string](https://github.com/ramyamuthineni23/LeetCode/tree/master/0778-reorganize-string) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/ramyamuthineni23/LeetCode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ramyamuthineni23/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ramyamuthineni23/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ramyamuthineni23/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ramyamuthineni23/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3474-better-compression-of-string](https://github.com/ramyamuthineni23/LeetCode/tree/master/3474-better-compression-of-string) |
