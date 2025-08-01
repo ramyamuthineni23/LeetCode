@@ -302,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0465-optimal-account-balancing](https://github.com/ramyamuthineni23/LeetCode/tree/master/0465-optimal-account-balancing) |
 | [0485-max-consecutive-ones](https://github.com/ramyamuthineni23/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/ramyamuthineni23/LeetCode/tree/master/0486-predict-the-winner) |
+| [0496-next-greater-element-i](https://github.com/ramyamuthineni23/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ramyamuthineni23/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ramyamuthineni23/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ramyamuthineni23/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -562,6 +563,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0380-insert-delete-getrandom-o1](https://github.com/ramyamuthineni23/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/ramyamuthineni23/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/ramyamuthineni23/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/ramyamuthineni23/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/ramyamuthineni23/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0582-kill-process](https://github.com/ramyamuthineni23/LeetCode/tree/master/0582-kill-process) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ramyamuthineni23/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -695,6 +697,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/ramyamuthineni23/LeetCode/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/ramyamuthineni23/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0456-132-pattern](https://github.com/ramyamuthineni23/LeetCode/tree/master/0456-132-pattern) |
+| [0496-next-greater-element-i](https://github.com/ramyamuthineni23/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ramyamuthineni23/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/ramyamuthineni23/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/ramyamuthineni23/LeetCode/tree/master/0735-asteroid-collision) |
@@ -740,6 +743,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ramyamuthineni23/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0456-132-pattern](https://github.com/ramyamuthineni23/LeetCode/tree/master/0456-132-pattern) |
+| [0496-next-greater-element-i](https://github.com/ramyamuthineni23/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ramyamuthineni23/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/ramyamuthineni23/LeetCode/tree/master/0739-daily-temperatures) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ramyamuthineni23/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
