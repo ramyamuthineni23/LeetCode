@@ -349,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ramyamuthineni23/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1511-count-number-of-teams](https://github.com/ramyamuthineni23/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ramyamuthineni23/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1704-special-positions-in-a-binary-matrix](https://github.com/ramyamuthineni23/LeetCode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/ramyamuthineni23/LeetCode/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ramyamuthineni23/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ramyamuthineni23/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -939,6 +940,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1036-rotting-oranges](https://github.com/ramyamuthineni23/LeetCode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ramyamuthineni23/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1331-path-with-maximum-gold](https://github.com/ramyamuthineni23/LeetCode/tree/master/1331-path-with-maximum-gold) |
+| [1704-special-positions-in-a-binary-matrix](https://github.com/ramyamuthineni23/LeetCode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ramyamuthineni23/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/ramyamuthineni23/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Shortest Path
