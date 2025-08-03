@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/ramyamuthineni23/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/ramyamuthineni23/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/ramyamuthineni23/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/ramyamuthineni23/LeetCode/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ramyamuthineni23/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/ramyamuthineni23/LeetCode/tree/master/0322-coin-change) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ramyamuthineni23/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -521,6 +522,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/ramyamuthineni23/LeetCode/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/ramyamuthineni23/LeetCode/tree/master/0221-maximal-square) |
 | [0264-ugly-number-ii](https://github.com/ramyamuthineni23/LeetCode/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/ramyamuthineni23/LeetCode/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/ramyamuthineni23/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ramyamuthineni23/LeetCode/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/ramyamuthineni23/LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -665,6 +667,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/ramyamuthineni23/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/ramyamuthineni23/LeetCode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/ramyamuthineni23/LeetCode/tree/master/0273-integer-to-english-words) |
+| [0279-perfect-squares](https://github.com/ramyamuthineni23/LeetCode/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/ramyamuthineni23/LeetCode/tree/master/0326-power-of-three) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ramyamuthineni23/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/ramyamuthineni23/LeetCode/tree/master/0412-fizz-buzz) |
