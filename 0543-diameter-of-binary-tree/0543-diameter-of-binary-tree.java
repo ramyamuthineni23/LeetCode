@@ -4,23 +4,34 @@
  *     int val;
  *     TreeNode left;
  *     TreeNode right;
- *     TreeNode(int x) { val = x; }
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
  * }
  */
 class Solution {
-    int MAX_D = 0;
+    private int diameter;
     public int diameterOfBinaryTree(TreeNode root) {
-         if(root == null) return 0;
-        int d = maxDepth(root);
-        return MAX_D;
+        diameter = 0;
+        longestPath(root);
+        return diameter;
     }
-    public int maxDepth(TreeNode node){
-        if(node == null){
-            return 0;
-        }
-        int leftDepth = maxDepth(node.left);
-        int rightDepth = maxDepth(node.right);
-        MAX_D = Math.max(MAX_D, Math.abs(leftDepth+rightDepth));
-        return 1 + Math.max(leftDepth, rightDepth);
+    private int longestPath(TreeNode node){
+        if(node == null) return -1;
+        // recursively find the longest path in
+        // both left child and right child
+        int leftPath = longestPath(node.left);
+        int rightPath = longestPath(node.right);
+
+        // update the diameter if left_path plus right_path is larger
+        diameter = Math.max(diameter, leftPath + rightPath + 2);
+
+        // return the longest one between left_path and right_path;
+        // remember to add 1 for the path connecting the node and its parent
+        return Math.max(leftPath, rightPath) + 1;
     }
 }
