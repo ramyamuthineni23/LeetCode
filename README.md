@@ -381,6 +381,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/ramyamuthineni23/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/ramyamuthineni23/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3194-find-words-containing-character](https://github.com/ramyamuthineni23/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3202-high-access-employees](https://github.com/ramyamuthineni23/LeetCode/tree/master/3202-high-access-employees) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/ramyamuthineni23/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/ramyamuthineni23/LeetCode/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ramyamuthineni23/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -490,6 +491,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2536-determine-if-two-events-have-conflict](https://github.com/ramyamuthineni23/LeetCode/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ramyamuthineni23/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3194-find-words-containing-character](https://github.com/ramyamuthineni23/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3202-high-access-employees](https://github.com/ramyamuthineni23/LeetCode/tree/master/3202-high-access-employees) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ramyamuthineni23/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/ramyamuthineni23/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ramyamuthineni23/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -606,6 +608,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2215-finding-3-digit-even-numbers](https://github.com/ramyamuthineni23/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ramyamuthineni23/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2348-count-number-of-texts](https://github.com/ramyamuthineni23/LeetCode/tree/master/2348-count-number-of-texts) |
+| [3202-high-access-employees](https://github.com/ramyamuthineni23/LeetCode/tree/master/3202-high-access-employees) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ramyamuthineni23/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ramyamuthineni23/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3474-better-compression-of-string](https://github.com/ramyamuthineni23/LeetCode/tree/master/3474-better-compression-of-string) |
@@ -768,6 +771,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ramyamuthineni23/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ramyamuthineni23/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ramyamuthineni23/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3202-high-access-employees](https://github.com/ramyamuthineni23/LeetCode/tree/master/3202-high-access-employees) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/ramyamuthineni23/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/ramyamuthineni23/LeetCode/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ramyamuthineni23/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
