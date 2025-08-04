@@ -1,32 +1,26 @@
 class Solution {
     public List<List<Integer>> permute(int[] nums) {
-        int n=nums.length;
-        
-        List<List<Integer>> ans=new ArrayList<List<Integer>>();
-        recPermute(0,nums,ans);
-        return ans;
+    List<List<Integer>> result = new ArrayList<>();
+    boolean[] used = new boolean[nums.length];
+    backtrack(nums, new ArrayList<>(), used, result);
+    return result;
+}
+
+private void backtrack(int[] nums, List<Integer> path, boolean[] used, List<List<Integer>> result) {
+    if (path.size() == nums.length) {
+        result.add(new ArrayList<>(path));
+        return;
     }
-    
-    public void recPermute(int index,int[] nums,List<List<Integer>> ans){
-        if(index==nums.length-1){
-            List<Integer> temp=new ArrayList<>();
-            for(int i=0;i<nums.length;i++){
-                temp.add(nums[i]);
-            }
-            ans.add(temp);
-        }
-        
-        for(int i=index;i<nums.length;i++){
-            swap(i,index,nums);
-            recPermute(index+1,nums,ans);
-            swap(i,index,nums);
-        }
-        return ;
+
+    for (int i = 0; i < nums.length; i++) {
+        if (used[i]) continue;
+
+        used[i] = true;
+        path.add(nums[i]);
+        backtrack(nums, path, used, result);
+        path.remove(path.size() - 1);
+        used[i] = false;
     }
-    
-    public void swap(int l,int r,int[] nums){
-        int swap=nums[l];
-        nums[l]=nums[r];
-        nums[r]=swap;
-    }
+}
+
 }
