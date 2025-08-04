@@ -1,26 +1,28 @@
 class Solution {
     public List<List<Integer>> combinationSum2(int[] candidates, int target) {
-            List<List<Integer>> resultList=new ArrayList<List<Integer>>();
-        Arrays.sort(candidates);
-        combinations(0, candidates, target, resultList, new ArrayList<Integer>());
-        return resultList;
+        List<List<Integer>> res = new ArrayList<>();
+        Arrays.sort(candidates);  // Sort to handle duplicates
+        backtrack(candidates, 0, target, new ArrayList<>(), res);
+        return res;
     }
-    public void combinations(int index, int[] candidates, int target, List<List<Integer>> resultList, ArrayList<Integer> ds){
-        
-        if(target==0){
-            resultList.add(new ArrayList<>(ds));
+
+    private void backtrack(int[] candidates, int start, int target,
+                           List<Integer> current, List<List<Integer>> res) {
+        if (target == 0) {
+            res.add(new ArrayList<>(current));  // Found valid combination
             return;
         }
 
-        for(int i=index;i<candidates.length;i++){
-            if(i>index && candidates[i]==candidates[i-1]) continue;
-            if(candidates[index]>target) break;
+        for (int i = start; i < candidates.length; i++) {
+            // Skip duplicates at the same level
+            if (i > start && candidates[i] == candidates[i - 1]) continue;
 
-            ds.add(candidates[i]);
-            combinations(i+1, candidates, target-candidates[i], resultList, ds);
-            ds.remove(ds.size()-1);
+            if (candidates[i] > target) break; // Early stop
+
+            current.add(candidates[i]);
+            backtrack(candidates, i + 1, target - candidates[i], current, res);
+            current.remove(current.size() - 1);  // Backtrack
         }
-
-        return ;
     }
 }
+
