@@ -2,8 +2,7 @@ class Solution {
     public int triangleNumber(int[] nums) {
         
         Arrays.sort(nums);
-        int count = 0;
-        int n = nums.length;
+        int count = 0, n = nums.length;
 
         for(int k = n-1; k >= 2; k--){
             int i = 0, j = k-1;
