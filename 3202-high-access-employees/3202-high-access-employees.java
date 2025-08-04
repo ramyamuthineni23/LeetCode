@@ -13,9 +13,7 @@ class Solution {
 
     for (Map.Entry<String, List<Integer>> entry : map.entrySet()) {
         List<Integer> times = entry.getValue();
-        System.out.print(entry.getKey()+": ");
         Collections.sort(times);
-        System.out.print(times+" ");
         for (int i = 2; i < times.size(); i++) {
             if (times.get(i) - times.get(i - 2) < 60) {
                 result.add(entry.getKey());
