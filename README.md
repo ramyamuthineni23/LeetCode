@@ -199,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0456-132-pattern](https://github.com/ramyamuthineni23/LeetCode/tree/master/0456-132-pattern) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ramyamuthineni23/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ramyamuthineni23/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/ramyamuthineni23/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ramyamuthineni23/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0713-subarray-product-less-than-k](https://github.com/ramyamuthineni23/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ramyamuthineni23/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
@@ -311,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0540-single-element-in-a-sorted-array](https://github.com/ramyamuthineni23/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ramyamuthineni23/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0582-kill-process](https://github.com/ramyamuthineni23/LeetCode/tree/master/0582-kill-process) |
+| [0611-valid-triangle-number](https://github.com/ramyamuthineni23/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/ramyamuthineni23/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/ramyamuthineni23/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0692-top-k-frequent-words](https://github.com/ramyamuthineni23/LeetCode/tree/master/0692-top-k-frequent-words) |
@@ -415,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0443-string-compression](https://github.com/ramyamuthineni23/LeetCode/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/ramyamuthineni23/LeetCode/tree/master/0455-assign-cookies) |
 | [0556-next-greater-element-iii](https://github.com/ramyamuthineni23/LeetCode/tree/master/0556-next-greater-element-iii) |
+| [0611-valid-triangle-number](https://github.com/ramyamuthineni23/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/ramyamuthineni23/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ramyamuthineni23/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0868-push-dominoes](https://github.com/ramyamuthineni23/LeetCode/tree/master/0868-push-dominoes) |
@@ -754,6 +757,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/ramyamuthineni23/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ramyamuthineni23/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/ramyamuthineni23/LeetCode/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/ramyamuthineni23/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0692-top-k-frequent-words](https://github.com/ramyamuthineni23/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/ramyamuthineni23/LeetCode/tree/master/0778-reorganize-string) |
 | [1074-high-five](https://github.com/ramyamuthineni23/LeetCode/tree/master/1074-high-five) |
@@ -807,6 +811,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/ramyamuthineni23/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ramyamuthineni23/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/ramyamuthineni23/LeetCode/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/ramyamuthineni23/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0678-valid-parenthesis-string](https://github.com/ramyamuthineni23/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ramyamuthineni23/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0778-reorganize-string](https://github.com/ramyamuthineni23/LeetCode/tree/master/0778-reorganize-string) |
