@@ -13,19 +13,27 @@
  *     }
  * }
  */
-class Solution {
-    int remaining;
-    HashMap<Integer, Integer> hashMap=new HashMap<>();
+public class Solution {
     public boolean findTarget(TreeNode root, int k) {
-        if(root==null)
-            return false;
-
-        if(hashMap.containsKey(k-root.val)){
-            return true;
+        List < Integer > list = new ArrayList();
+        inorder(root, list);
+        int l = 0, r = list.size() - 1;
+        while (l < r) {
+            int sum = list.get(l) + list.get(r);
+            if (sum == k)
+                return true;
+            if (sum < k)
+                l++;
+            else
+                r--;
         }
-
-        hashMap.put(root.val,1);
-
-        return findTarget(root.left, k) || findTarget(root.right, k);
+        return false;
+    }
+    public void inorder(TreeNode root, List < Integer > list) {
+        if (root == null)
+            return;
+        inorder(root.left, list);
+        list.add(root.val);
+        inorder(root.right, list);
     }
 }
