@@ -333,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/ramyamuthineni23/LeetCode/tree/master/0792-binary-search) |
 | [0817-design-hashmap](https://github.com/ramyamuthineni23/LeetCode/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/ramyamuthineni23/LeetCode/tree/master/0859-design-circular-deque) |
+| [0860-design-circular-queue](https://github.com/ramyamuthineni23/LeetCode/tree/master/0860-design-circular-queue) |
 | [0875-longest-mountain-in-array](https://github.com/ramyamuthineni23/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ramyamuthineni23/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/ramyamuthineni23/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -649,6 +650,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0445-add-two-numbers-ii](https://github.com/ramyamuthineni23/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0817-design-hashmap](https://github.com/ramyamuthineni23/LeetCode/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/ramyamuthineni23/LeetCode/tree/master/0859-design-circular-deque) |
+| [0860-design-circular-queue](https://github.com/ramyamuthineni23/LeetCode/tree/master/0860-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/ramyamuthineni23/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -950,6 +952,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/ramyamuthineni23/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/ramyamuthineni23/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0859-design-circular-deque](https://github.com/ramyamuthineni23/LeetCode/tree/master/0859-design-circular-deque) |
+| [0860-design-circular-queue](https://github.com/ramyamuthineni23/LeetCode/tree/master/0860-design-circular-queue) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ramyamuthineni23/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ramyamuthineni23/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ramyamuthineni23/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -1010,6 +1013,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0789-kth-largest-element-in-a-stream](https://github.com/ramyamuthineni23/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0817-design-hashmap](https://github.com/ramyamuthineni23/LeetCode/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/ramyamuthineni23/LeetCode/tree/master/0859-design-circular-deque) |
+| [0860-design-circular-queue](https://github.com/ramyamuthineni23/LeetCode/tree/master/0860-design-circular-queue) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/ramyamuthineni23/LeetCode/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [2169-simple-bank-system](https://github.com/ramyamuthineni23/LeetCode/tree/master/2169-simple-bank-system) |
 ## Iterator
