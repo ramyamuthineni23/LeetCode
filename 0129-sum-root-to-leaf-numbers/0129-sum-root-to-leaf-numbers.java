@@ -15,15 +15,20 @@
  */
 class Solution {
     public int sumNumbers(TreeNode root) {
-        return sumOfNumbers(root,0);
+        return dfs(root, 0);
     }
-    public int sumOfNumbers(TreeNode root,int value){
-        if(root==null)
-            return 0;
-        value=value*10+root.val;        
-        if(root.left==null&&root.right==null)
-            return value;
-        return sumOfNumbers(root.left,value)+sumOfNumbers(root.right,value);
-        
+
+    private int dfs(TreeNode node, int curr) {
+        if (node == null) return 0;
+
+        int newNum = curr * 10 + node.val;
+
+        // If leaf, return number
+        if (node.left == null && node.right == null) {
+            return newNum;
+        }
+
+        // Recurse both sides
+        return dfs(node.left, newNum) + dfs(node.right, newNum);
     }
 }
