@@ -9,24 +9,25 @@
  */
 class Solution {
     public boolean isBalanced(TreeNode root) {
-        int maxheight=checkHeight(root);
-        if(maxheight==-1)
+        if(maxDepth(root, 0)==-1){
             return false;
-        else
-            return true;
-    }
-    public int checkHeight(TreeNode root)
-    {
-        if(root==null)
-            return 1;
-        else
-        {
-            int l=checkHeight(root.left);
-            int r=checkHeight(root.right);
-            if(l==-1||r==-1||Math.abs(l-r)>1)
-                return -1;
-            else
-                return 1+Math.max(l,r);
         }
+        return true;
     }
+    
+    public int maxDepth(TreeNode root, int depth){
+        if(root==null){
+            return depth;
+        }
+        int left = maxDepth(root.left, depth+1);
+        int right = maxDepth(root.right, depth+1);
+        if(left==-1 || right == -1){
+            return -1;
+        }
+        if(Math.abs(left-right)<=1){
+            return Math.max(left,right);
+        }
+        return -1;
+    }
+    
 }
