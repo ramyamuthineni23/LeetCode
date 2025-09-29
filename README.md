@@ -267,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/ramyamuthineni23/LeetCode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/ramyamuthineni23/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ramyamuthineni23/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0068-text-justification](https://github.com/ramyamuthineni23/LeetCode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/ramyamuthineni23/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ramyamuthineni23/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/ramyamuthineni23/LeetCode/tree/master/0078-subsets) |
@@ -455,6 +456,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/ramyamuthineni23/LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ramyamuthineni23/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/ramyamuthineni23/LeetCode/tree/master/0049-group-anagrams) |
+| [0068-text-justification](https://github.com/ramyamuthineni23/LeetCode/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/ramyamuthineni23/LeetCode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/ramyamuthineni23/LeetCode/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/ramyamuthineni23/LeetCode/tree/master/0093-restore-ip-addresses) |
@@ -889,6 +891,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ramyamuthineni23/LeetCode/tree/master/0054-spiral-matrix) |
+| [0068-text-justification](https://github.com/ramyamuthineni23/LeetCode/tree/master/0068-text-justification) |
 | [0348-design-tic-tac-toe](https://github.com/ramyamuthineni23/LeetCode/tree/master/0348-design-tic-tac-toe) |
 | [0412-fizz-buzz](https://github.com/ramyamuthineni23/LeetCode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/ramyamuthineni23/LeetCode/tree/master/0657-robot-return-to-origin) |
