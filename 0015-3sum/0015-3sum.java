@@ -1,24 +1,37 @@
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
+        int n = nums.length;
         Arrays.sort(nums);
-        List<List<Integer>> res = new ArrayList<>();
-        for (int i = 0; i < nums.length && nums[i] <= 0; ++i) if (
-            i == 0 || nums[i - 1] != nums[i]
-        ) {
-            twoSum(nums, i, res);
-        }
-        return res;
-    }
 
-    void twoSum(int[] nums, int i, List<List<Integer>> res) {
-        var seen = new HashSet<Integer>();
-        for (int j = i + 1; j < nums.length; ++j) {
-            int complement = -nums[i] - nums[j];
-            if (seen.contains(complement)) {
-                res.add(Arrays.asList(nums[i], nums[j], complement));
-                while (j + 1 < nums.length && nums[j] == nums[j + 1]) ++j;
+        List<List<Integer>> result = new ArrayList<>();
+
+        for (int i = 0; i < n - 2; i++) {
+
+            if(i > 0 && nums[i] == nums[i - 1]) continue;
+
+            int left = i + 1;
+            int right = n - 1;
+            while(left < right) {
+
+                int curSum = nums[i] + nums[left] + nums[right];
+
+                if(curSum == 0) {
+                    result.add(Arrays.asList(nums[i], nums[left], nums[right]));
+                    left++;
+                    right--;
+
+                    while(left < right && nums[left] == nums[left - 1]) left++;
+                    while(right > left && nums[right] == nums[right + 1]) right--;
+                } 
+                else if(curSum < 0) {
+                    left++;
+                }
+                else {
+                    right--;
+                }
+                
             }
-            seen.add(nums[j]);
         }
+        return result;
     }
 }
