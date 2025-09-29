@@ -400,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/ramyamuthineni23/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/ramyamuthineni23/LeetCode/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ramyamuthineni23/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/ramyamuthineni23/LeetCode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/ramyamuthineni23/LeetCode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ramyamuthineni23/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/ramyamuthineni23/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -637,6 +638,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ramyamuthineni23/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2348-count-number-of-texts](https://github.com/ramyamuthineni23/LeetCode/tree/master/2348-count-number-of-texts) |
 | [3202-high-access-employees](https://github.com/ramyamuthineni23/LeetCode/tree/master/3202-high-access-employees) |
+| [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/ramyamuthineni23/LeetCode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ramyamuthineni23/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ramyamuthineni23/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3474-better-compression-of-string](https://github.com/ramyamuthineni23/LeetCode/tree/master/3474-better-compression-of-string) |
@@ -838,6 +840,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ramyamuthineni23/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1983-maximum-population-year](https://github.com/ramyamuthineni23/LeetCode/tree/master/1983-maximum-population-year) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ramyamuthineni23/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/ramyamuthineni23/LeetCode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ramyamuthineni23/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ramyamuthineni23/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3474-better-compression-of-string](https://github.com/ramyamuthineni23/LeetCode/tree/master/3474-better-compression-of-string) |
@@ -1005,6 +1008,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1331-path-with-maximum-gold](https://github.com/ramyamuthineni23/LeetCode/tree/master/1331-path-with-maximum-gold) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/ramyamuthineni23/LeetCode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1972-rotating-the-box](https://github.com/ramyamuthineni23/LeetCode/tree/master/1972-rotating-the-box) |
+| [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/ramyamuthineni23/LeetCode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ramyamuthineni23/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/ramyamuthineni23/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Shortest Path
