@@ -4,7 +4,6 @@ class Solution {
         for(int val:nums) {
             rightSum+= val;
         }
-        System.out.println("Sum:" + rightSum);
         int[] result = new int[n];
 
         for(int i = 0; i < n; i++){
