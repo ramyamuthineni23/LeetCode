@@ -7,10 +7,11 @@ class Solution {
         int[] result = new int[n];
 
         for(int i = 0; i < n; i++){
-            rightSum -= nums[i];
+            int val = nums[i];
+            rightSum -= val;
             result[i] = Math.abs(leftSum-rightSum);
 
-            leftSum += nums[i];
+            leftSum += val;
             
         }
         return result;
